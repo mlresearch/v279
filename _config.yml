@@ -1,0 +1,98 @@
+---
+booktitle: Proceedings of the Algorithmic Fairness Through the Lens of Metrics and
+  Evaluation
+shortname: AFME
+year: '2024'
+volume: '279'
+start: &1 2024-12-14
+end: 2024-12-14
+published: 2025-04-23
+conference_number: '5'
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: AFME2024
+month: 0
+cycles: false
+bibtex_editor: Rateike, Miriam and Dieng, Awa and Watson-Daniels, Jamelle and Fioretto,
+  Ferdinando and Farnadi, Golnoosh
+editor:
+- given: Miriam
+  family: Rateike
+- given: Awa
+  family: Dieng
+- given: Jamelle
+  family: Watson-Daniels
+- given: Ferdinando
+  family: Fioretto
+- given: Golnoosh
+  family: Farnadi
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the Algorithmic Fairness Through the Lens of Metrics and Evaluation
+    Held in Vancouver Convention Center, Vancouver, Canada on 14 December 2024
+
+  Published as Volume 279 by the Proceedings of Machine Learning Research on 23 April 2025.
+
+  Volume Edited by:
+    Miriam Rateike
+    Awa Dieng
+    Jamelle Watson-Daniels
+    Ferdinando Fioretto
+    Golnoosh Farnadi
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 14 Dec
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v279"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v279
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v279
+email: ''
+conference:
+  name: Workshop on Algorithmic Fairness Through the Lens of Metrics and Evaluation
+  url: https://www.afciworkshop.org/
+  location: Vancouver Convention Center, Vancouver, Canada
+  dates:
+  - *1
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+link_visibility:
+  openreview: true
+  pdf: true
+  supplementary: true
+  software: true
+  video: true
+  arxiv: true
+  doi: true
+  website: true
+orig_bibfile: "/Users/neil/mlresearch/v279/afme24.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v279/afme24.bib
