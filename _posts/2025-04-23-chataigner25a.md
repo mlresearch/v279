@@ -26,12 +26,14 @@ lastpage: 155
 page: 133-155
 order: 133
 cycles: false
-bibtex_author: Chataigner, Cl{\'e}a and Ta{\"i}k, Afaf Golnoosh Farnadi
+bibtex_author: Chataigner, Cl{\'e}a and Ta{\"i}k, Afaf and Farnadi, Golnoosh
 author:
 - given: Cléa
   family: Chataigner
-- given: Afaf Golnoosh Farnadi
+- given: Afaf
   family: Taïk
+- given: Golnoosh
+  family: Farnadi
 date: 2025-04-23
 address:
 container-title: Proceedings of the Algorithmic Fairness Through the Lens of Metrics
