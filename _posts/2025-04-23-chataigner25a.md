@@ -48,6 +48,6 @@ issued:
 pdf: https://raw.githubusercontent.com/mlresearch/v279/main/assets/chataigner25a/chataigner25a.pdf
 extras:
 - label: Supplementary PDF
-  link: https://raw.githubusercontent.com/mlresearch/v279/main/assets/assets/chataigner25a/chataigner25a-supp.pdf
+  link: https://raw.githubusercontent.com/mlresearch/v279/main/assets/chataigner25a/chataigner25a-supp.pdf
 # Format based on Martin Fenner's citeproc: https://blog.front-matter.io/posts/citeproc-yaml-for-bibliographies/
 ---
